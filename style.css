@@ -150,6 +150,12 @@ h1 {
 .card:nth-child(4) {
   border-top: 4px solid var(--orange);
 }
+.card:nth-child(5) {
+  border-top: 4px solid var(--blue);
+}
+.card:nth-child(6) {
+  border-top: 4px solid var(--blue);
+}
 
 footer {
   padding: 2rem 0;
